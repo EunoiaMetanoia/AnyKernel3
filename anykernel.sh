@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Hyper Kernel by NRanjan-17
+kernel.string=AfterMidnight Kernel by Unknown
 do.devicecheck=1
 do.modules=0
 do.systemless=0
@@ -15,7 +15,7 @@ device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=13.0
+supported.versions=11,12,12.1,13,14,15
 supported.patchlevels=
 '; } # end properties
 
