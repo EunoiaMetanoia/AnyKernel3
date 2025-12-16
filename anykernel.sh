@@ -4,18 +4,18 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=AfterMidnight Kernel by Unknown
+kernel.string=Kernel by Unknown
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=mido
-device.name2=
-device.name3=
-device.name4=
+device.name2=Redmi Note 4
+device.name3=Redmi Note 4x
+device.name4=redmi note 4
 device.name5=
-supported.versions=11,12,12.1,13,14,15
+supported.versions=10,11,12,12.1,13,14,15
 supported.patchlevels=
 '; } # end properties
 
